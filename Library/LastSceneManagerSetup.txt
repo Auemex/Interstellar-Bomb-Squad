@@ -1,0 +1,22 @@
+sceneSetups:
+- path: Assets/Scenes/MainMenu.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Scenes/Difficulty.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/EasyLevel.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/HardLevel.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Loss.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Victory.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Credits.unity
+  isLoaded: 0
+  isActive: 0
